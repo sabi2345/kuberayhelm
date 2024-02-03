@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  ray-cluster:
+  - apiVersion: v1
+    created: "2024-02-03T08:22:29.339832711Z"
+    description: A Helm chart for Kubernetes
+    digest: c04e856b7e68aa902bd795219718cb1ee29c8fe6abc22c6f1bd6045db01e1efd
+    icon: https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png
+    name: ray-cluster
+    urls:
+    - https://github.com/sabi2345/kuberayhelm/releases/download/ray-cluster-1.0.0/ray-cluster-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-03T08:22:29.339838713Z"
